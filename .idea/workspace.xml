@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2018e095-0597-4fa8-8e0d-0f7eb9676264" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/herquiloidehele.github.io.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/demos/demo-resume.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/skins/skin-resume.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/theme-blog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/theme-elements.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/theme-shop.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blank.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/demos/resume/about-me/about-me-bg-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/demos/resume/about-me/herquiloide.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/demos/resume/about-me/mouse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/demos/resume/blog/blog-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/demos/resume/blog/blog-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/demos/resume/contact/contact-bg-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/demos/resume/contact/contact-bg-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/demos/resume/portfolio/dalima-rental.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/demos/resume/portfolio/portfolio-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/demos/resume/portfolio/portfolio-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/demos/resume/portfolio/portfolio-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/demos/resume/portfolio/portfolio-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/demos/resume/portfolio/portfolio-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/demos/resume/portfolio/portfolio-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/demos/resume/portfolio/portfolio-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/demos/resume/portfolio/portfolio-8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/flags.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/demos/demo-resume.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/theme.init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/theme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/views/view.contact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/animate/animate.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/common/common.init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/common/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/common/common.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/fontawesome-free/css/all.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/fontawesome-free/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/isotope/jquery.isotope.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.appear/jquery.appear.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.appear/jquery.appear.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.cookie/jquery.cookie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.cookie/jquery.cookie.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.easing/jquery.easing.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.easy-pie-chart/angular.easypiechart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.easy-pie-chart/angular.easypiechart.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.easy-pie-chart/easypiechart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.easy-pie-chart/easypiechart.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.easy-pie-chart/jquery.easypiechart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.easy-pie-chart/jquery.easypiechart.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.gmap/jquery.gmap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.gmap/jquery.gmap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.lazyload/jquery.lazyload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.lazyload/jquery.lazyload.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/additional-methods.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/additional-methods.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/jquery.validate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/jquery.validate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_ar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_ar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_az.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_az.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_bg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_bg.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_bn_BD.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_bn_BD.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_ca.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_ca.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_cs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_cs.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_da.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_da.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_de.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_de.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_el.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_el.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_es.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_es.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_es_AR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_es_AR.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_es_PE.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_es_PE.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_et.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_et.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_eu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_eu.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_fa.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_fa.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_fi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_fi.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_fr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_fr.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_ge.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_ge.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_gl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_gl.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_he.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_he.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_hr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_hr.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_hu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_hu.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_hy_AM.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_hy_AM.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_id.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_id.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_is.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_is.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_it.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_it.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_ja.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_ja.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_ka.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_ka.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_kk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_kk.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_ko.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_ko.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_lt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_lt.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_lv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_lv.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_mk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_mk.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_my.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_my.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_nl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_nl.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_no.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_no.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_pl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_pl.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_pt_BR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_pt_BR.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_pt_PT.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_pt_PT.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_ro.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_ro.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_ru.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_ru.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_sd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_sd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_si.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_si.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_sk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_sk.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_sl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_sl.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_sr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_sr.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_sr_lat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_sr_lat.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_sv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_sv.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_th.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_th.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_tj.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_tj.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_tr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_tr.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_uk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_uk.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_ur.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_ur.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_vi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_vi.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_zh.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_zh.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_zh_TW.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/messages_zh_TW.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/methods_de.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/methods_de.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/methods_es_CL.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/methods_es_CL.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/methods_fi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/methods_fi.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/methods_it.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/methods_it.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/methods_nl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/methods_nl.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/methods_pt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery.validation/localization/methods_pt.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery/core.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery/jquery.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery/jquery.slim.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery/jquery.slim.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery/jquery.slim.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/magnific-popup/jquery.magnific-popup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/magnific-popup/jquery.magnific-popup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/magnific-popup/magnific-popup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/magnific-popup/magnific-popup.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/modernizr/modernizr.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/owl.carousel/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/owl.carousel/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/owl.carousel/assets/ajax-loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/owl.carousel/assets/owl.carousel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/owl.carousel/assets/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/owl.carousel/assets/owl.theme.default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/owl.carousel/assets/owl.theme.default.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/owl.carousel/assets/owl.theme.green.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/owl.carousel/assets/owl.theme.green.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/owl.carousel/assets/owl.video.play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/owl.carousel/owl.carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/owl.carousel/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/popper/esm/popper-utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/popper/esm/popper-utils.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/popper/esm/popper-utils.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/popper/esm/popper-utils.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/popper/esm/popper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/popper/esm/popper.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/popper/esm/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/popper/esm/popper.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/popper/popper-utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/popper/popper-utils.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/popper/popper-utils.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/popper/popper-utils.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/popper/popper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/popper/popper.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/popper/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/popper/popper.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/popper/umd/popper-utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/popper/umd/popper-utils.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/popper/umd/popper-utils.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/popper/umd/popper-utils.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/popper/umd/popper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/popper/umd/popper.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/popper/umd/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/popper/umd/popper.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/popper/umd/poppper.js.flow" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/rs-plugin/css/closedhand.cur" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/rs-plugin/css/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/rs-plugin/css/layers.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/rs-plugin/css/navigation-skins/ares.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/rs-plugin/css/navigation-skins/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/rs-plugin/css/navigation-skins/dione.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/rs-plugin/css/navigation-skins/erinyen.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/rs-plugin/css/navigation-skins/gyges.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/rs-plugin/css/navigation-skins/hades.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/rs-plugin/css/navigation-skins/hebe.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/rs-plugin/css/navigation-skins/hephaistos.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/rs-plugin/css/navigation-skins/hermes.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/rs-plugin/css/navigation-skins/hesperiden.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/rs-plugin/css/navigation-skins/metis.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/rs-plugin/css/navigation-skins/persephone.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/rs-plugin/css/navigation-skins/uranus.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/rs-plugin/css/navigation-skins/zeus.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/rs-plugin/css/navigation.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/rs-plugin/css/openhand.cur" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/rs-plugin/css/settings-source.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/rs-plugin/css/settings.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/rs-plugin/css/tp-color-picker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/rs-plugin/js/extensions/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/rs-plugin/js/extensions/revolution.extension.actions.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/rs-plugin/js/extensions/revolution.extension.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/rs-plugin/js/extensions/revolution.extension.kenburn.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/rs-plugin/js/extensions/revolution.extension.layeranimation.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/rs-plugin/js/extensions/revolution.extension.migration.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/rs-plugin/js/extensions/revolution.extension.navigation.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/rs-plugin/js/extensions/revolution.extension.parallax.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/rs-plugin/js/extensions/revolution.extension.slideanims.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/rs-plugin/js/extensions/revolution.extension.video.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/rs-plugin/js/extensions/source/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/rs-plugin/js/extensions/source/revolution.extension.actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/rs-plugin/js/extensions/source/revolution.extension.carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/rs-plugin/js/extensions/source/revolution.extension.kenburn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/rs-plugin/js/extensions/source/revolution.extension.layeranimation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/rs-plugin/js/extensions/source/revolution.extension.migration.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/rs-plugin/js/extensions/source/revolution.extension.navigation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/rs-plugin/js/extensions/source/revolution.extension.parallax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/rs-plugin/js/extensions/source/revolution.extension.slideanims.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/rs-plugin/js/extensions/source/revolution.extension.video.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/rs-plugin/js/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/rs-plugin/js/jquery.themepunch.enablelog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/rs-plugin/js/jquery.themepunch.revolution.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/rs-plugin/js/jquery.themepunch.tools.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/rs-plugin/js/source/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/rs-plugin/js/source/jquery.themepunch.enablelog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/rs-plugin/js/source/jquery.themepunch.revolution.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/rs-plugin/js/source/jquery.themepunch.tools.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/rs-plugin/js/source/tp-color-picker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/rs-plugin/js/tp-color-picker.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/simple-line-icons/CODE_OF_CONDUCT.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/simple-line-icons/CONTRIBUTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/simple-line-icons/History.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/simple-line-icons/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/simple-line-icons/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/simple-line-icons/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/simple-line-icons/css/simple-line-icons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/simple-line-icons/css/simple-line-icons.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/simple-line-icons/fonts/Simple-Line-Icons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/simple-line-icons/fonts/Simple-Line-Icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/simple-line-icons/fonts/Simple-Line-Icons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/simple-line-icons/fonts/Simple-Line-Icons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/simple-line-icons/fonts/Simple-Line-Icons.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/simple-line-icons/less/simple-line-icons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/simple-line-icons/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/simple-line-icons/scss/simple-line-icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/vide/jquery.vide.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/vide/jquery.vide.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/vivus/vivus.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/vivus/vivus.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ivpiZJ0a7MyE5m73WsBB52bemT" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2018e095-0597-4fa8-8e0d-0f7eb9676264" name="Default Changelist" comment="" />
+      <created>1602798047458</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602798047458</updated>
+      <workItem from="1602798048618" duration="248000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
