@@ -19,7 +19,43 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2018e095-0597-4fa8-8e0d-0f7eb9676264" name="Default Changelist" comment="" />
+    <list default="true" id="2018e095-0597-4fa8-8e0d-0f7eb9676264" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/img/demos/resume/portfolio/Dashboard-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/demos/resume/portfolio/IndicoTours-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/demos/resume/portfolio/IndicoTours-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/demos/resume/portfolio/denny-brezzy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/demos/resume/portfolio/desktop-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/demos/resume/portfolio/desktop-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/demos/resume/portfolio/dias-evntos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/demos/resume/portfolio/glossario-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/demos/resume/portfolio/glossario3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/demos/resume/portfolio/meu-metical-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/demos/resume/portfolio/meu-metical-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/demos/resume/portfolio/meu-metical-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/demos/resume/portfolio/meutako-1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/demos/resume/portfolio/mpesa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/demos/resume/portfolio/quiz1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/demos/resume/portfolio/quiz2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/demos/resume/portfolio/quiz3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/demos/resume/portfolio/rental.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/demos/resume/portfolio/sms-sender-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/demos/resume/portfolio/tcc2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/demos/resume/portfolio/tcc5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/demos/resume/portfolio/webtecss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/demos/resume/portfolio/yasuke-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/demos/resume/portfolio/yasuke-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/demos/resume/portfolio/dalima-rental.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/demos/resume/portfolio/portfolio-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/demos/resume/portfolio/portfolio-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/demos/resume/portfolio/portfolio-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/demos/resume/portfolio/portfolio-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/demos/resume/portfolio/portfolio-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/demos/resume/portfolio/portfolio-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/demos/resume/portfolio/portfolio-7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/demos/resume/portfolio/portfolio-8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,8 +76,13 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img/demos/resume/portfolio" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img/demos/resume/portfolio" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -51,7 +92,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602798047458</updated>
-      <workItem from="1602798048618" duration="539000" />
+      <workItem from="1602798048618" duration="5163000" />
     </task>
     <servers />
   </component>
@@ -71,5 +112,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602968027815">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1602968027815" />
   </component>
 </project>
