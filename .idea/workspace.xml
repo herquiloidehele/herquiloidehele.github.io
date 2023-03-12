@@ -23,10 +23,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2018e095-0597-4fa8-8e0d-0f7eb9676264" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/demos/resume/portfolio/memorias-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/demos/resume/portfolio/memorias-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/demos/resume/portfolio/memorias-3.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +53,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/hhele/WebstormProjects/herquiloidehele.github.io",
+    "last_opened_file_path": "/Users/hhele/WebstormProjects/herquiloidehele.github.io/img/demos/resume/portfolio",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -75,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602798047458</updated>
       <workItem from="1602798048618" duration="5581000" />
-      <workItem from="1678551688406" duration="3828000" />
+      <workItem from="1678551688406" duration="4722000" />
     </task>
     <servers />
   </component>
