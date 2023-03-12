@@ -19,14 +19,16 @@
     }
 
 
+    let tempoWit = document.getElementById('tempo_wit');
     let tempoDalima = document.getElementById('tempo_dalima');
     let tempoSiko = document.getElementById('tempo_siko');
     let tempoFSD = document.getElementById('tempo_fsd');
     let tempoUEM = document.getElementById('tempo_uem');
 
 
-    tempoDalima.innerText = (contarMeses(new Date(2019, 5, 10), new Date()).toUpperCase());
-    tempoFSD.innerText = (contarMeses(new Date(2018, 8, 10), new Date()).toUpperCase());
-    tempoSiko.innerText = (contarMeses(new Date(2016, 4, 10), new Date()).toUpperCase());
+    tempoWit.innerText = (contarMeses(new Date(2021, 10, 1), new Date()).toUpperCase());
+    tempoDalima.innerText = (contarMeses(new Date(2019, 5, 10), new Date(2021, 9, 30)).toUpperCase());
+    tempoFSD.innerText = (contarMeses(new Date(2018, 8, 10), new Date(2020, 5, 10)).toUpperCase());
+    tempoSiko.innerText = (contarMeses(new Date(2016, 4, 10), new Date(2019, 8, 10)).toUpperCase());
     tempoUEM.innerText = (contarMeses(new Date(2017, 1, 10), new Date(2018, 12, 1)).toUpperCase());
 
