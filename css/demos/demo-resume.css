@@ -39,6 +39,10 @@ section.section {
 	letter-spacing: -2px;
 }
 
+.custom-font-size-1.custom-title{
+	letter-spacing: -3px;
+}
+
 .custom-font-size-2 {
 	font-size: 21px;
 	letter-spacing: -0.5px;
