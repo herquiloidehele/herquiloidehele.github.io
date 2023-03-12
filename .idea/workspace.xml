@@ -23,6 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2018e095-0597-4fa8-8e0d-0f7eb9676264" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/img/demos/resume/about-me/IMG_2170.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -50,7 +51,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/hhele/WebstormProjects/herquiloidehele.github.io/img/demos/resume/portfolio",
+    "last_opened_file_path": "/Users/hhele/WebstormProjects/herquiloidehele.github.io/img/demos/resume/about-me",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -61,6 +62,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img/demos/resume/about-me" />
       <recent name="$PROJECT_DIR$/img/demos/resume/portfolio" />
     </key>
   </component>
@@ -73,7 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602798047458</updated>
       <workItem from="1602798048618" duration="5581000" />
-      <workItem from="1678551688406" duration="5027000" />
+      <workItem from="1678551688406" duration="6141000" />
     </task>
     <servers />
   </component>
